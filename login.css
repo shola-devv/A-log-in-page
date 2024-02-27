@@ -1,0 +1,179 @@
+body{
+    background-color: rgb(5, 5, 5);
+    display: grid;
+}
+.first{
+    color: rgb(49, 45, 41);
+    border: 2px rgb(162, 162, 163) solid;
+    background: black;
+    height : 400px;
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    left: 150px;
+    top: 70px;
+    border-radius: 17px;
+    position: relative;
+}
+.circle{
+    position: absolute;
+    left: 170px ;
+    border: 2px rgb(162, 162, 163) solid;
+    height: 60px;
+    width: 60px;
+    top: 15px;
+    border-radius: 100%;
+}
+#i {
+    color: antiquewhite;
+    position: absolute;
+    top: 270px;
+    left: 60px
+}
+#ii{
+    color: antiquewhite;
+    position: absolute;
+    top: 189px;
+    left: 60px;
+    z-index: 1;
+} 
+#iii{
+    color: antiquewhite;
+    position: absolute;
+    top: 430px;
+    left: 148px;
+    font-size: 24px;
+    cursor: pointer;
+
+}
+#iv{
+    color: antiquewhite;
+    position: absolute;
+    top: 430px;
+    left: 197px;
+    font-size: 24px;
+    cursor: pointer;
+
+}
+#v{
+    color: antiquewhite;
+    position: absolute;
+    top: 430px;
+    left: 247px;
+    font-size: 24px;
+    cursor: pointer;
+}
+#vi{
+    color: antiquewhite;
+    position: absolute;
+    top: 27px;
+    left: 187px;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+#firstb{
+    background-color: rgb(245, 254, 255);
+    height: 40px;
+    width: 300px;
+    position: absolute;
+    top: 340px;
+    left: 53px;
+    border-radius: 8px;
+    cursor: pointer;
+    
+    
+}
+.too{
+    font-family:  Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+    margin-top: 1.9px;
+    
+     
+     
+}
+
+.one{
+    position: relative;
+    top: 90px;
+   left: 105px;
+  font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    background: rgb(15, 14, 14);
+    height: 40px;
+    width: 190px;
+    border: 2px  rgb(248, 250, 252) solid;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.two{
+    position: absolute;
+    top: -1px;
+    left: 12px;
+    color: rgb(252, 250, 248);
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.three{
+    position: absolute;
+    top: -1px;
+    left: 120px;
+    color: rgb(70, 62, 62);
+    
+}
+.text{
+ color: rgb(31, 31, 30);
+ font-size: 40px;
+ margin-bottom: -60px;
+ font-family:  Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-weight: 700;
+ text-indent: 310px;
+}
+.fuu{
+    background-color: rgb(43, 41, 41);
+}
+.texty{
+    color: rgb(31, 31, 30);
+    font-size: 70px;
+    margin-bottom: -60px;
+    font-family:  Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    text-indent: 620px;
+    margin-top: -150px;
+   }
+#tii {
+    position: absolute;
+    top: 250px;
+    left: 50px;
+    border-radius: 8px;
+    width: 300px;
+    color: rgb(205, 210, 214);
+    background-color: rgb(8, 8, 8);
+    border: 1.5px rgb(162, 162, 163) solid;
+    height: 25px;
+    font-size: 17px;
+    padding-top: 15px;
+    padding-left: 12px;
+    
+}
+#tiy{
+    position: absolute;
+    top: 170px;
+    left: 50px;
+    padding-left: 10px;
+    
+    border: 1.5px rgb(162, 162, 163) solid;
+    border-radius: 8px;
+    height: 25px;
+    width: 300px;
+    font-size: 17px;
+    padding-top: 15px;
+    color: rgb(205, 210, 214);
+    background-color: rgb(8, 8, 8);
+}
